@@ -1,3 +1,3 @@
-                                                    # Softuni---Git-Project
+# Softuni---Git-Project
                                                     Fundamentals - Git Project
                                                     JavaScript Journeys
